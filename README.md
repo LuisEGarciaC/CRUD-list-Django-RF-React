@@ -13,7 +13,7 @@ Rquisitos [Python](https://www.python.org/downloads/) v3.10 para correr.
 - CLonar el positorio
 
 ```sh
-  git clone https://github.com/LuisEGarciaC/Django-auth-crud-tasks.git
+  git clone https://github.com/LuisEGarciaC/CRUD-list-Django-RF-React.git
 ```
 
 - Instalar entorno virutal
